@@ -1,1 +1,4 @@
-# jitendra-singhal
+- 👋 Hi, I’m Jitendra Singhal
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning System Internals and Architects
+- 📫 How to reach me jiten.cs2010@gmail.com
