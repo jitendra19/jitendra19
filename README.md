@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jitendra Singhal (Jiten)
-- 👀 I am Software Developer first, then Tech Architect.
+- 👀 I am Tech Architect.
 - :heart: Loves to code everyday, to solve problems, to help others and mentor people.
 - 
 
