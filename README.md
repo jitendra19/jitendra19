@@ -6,8 +6,8 @@
 - ## 🌐 Socials:
   - ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-singhal/) 
   - ### [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jiten.cs2010)
-  - ### [![StackOverFLow](https://img.shields.io/badge/StackOverFLow-12100E?logo=StackOverFLow&logoColor=green)](https://medium.com/@jiten.cs2010)
-  - ### [![Scaler](https://img.shields.io/badge/Scaler-12100E?logo=Scaler&logoColor=red)](https://medium.com/@jiten.cs2010) 
+  - ### [![StackOverFLow](https://img.shields.io/badge/StackOverFLow-12100E?logo=StackOverFLow&logoColor=green)](https://stackoverflow.com/users/3459770/jiten)
+  - ### [![Scaler](https://img.shields.io/badge/Scaler-4B3263?logo=Scaler&logoColor=red)](https://www.scaler.com/academy/profile/36f1ae9c6e8f/) 
 
 - # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
