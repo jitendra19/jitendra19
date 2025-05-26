@@ -27,18 +27,19 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 
-Language - Javascript, Typescript, Java/J2EE, Python, NodeJS, 
-Databases - SQL , Oracle, MongoDB
-Tools/Systems - OpenShift, Docker, Podman, Postman, SPS (IBM Cloud), z/OS, GitHub, Jira, GITLAB, Swagger, GIT
-Test automation - Cypress, Mocha, chai, Jest, Jasmine, KARMA, vscode-extension-tester (E2E testing Framework)
-UI Techs - HTML, CSS, ES6, React, Redux, Saga, Angular,Express, Ag-grid, husky, ESlint, ESbuild
-code Quality - SonarQube, 
-Vulnerability - whitesource
-Web Accessibility 
-VSCode Extension, language server protocol
-Grammar Parser - ANTLR (GRAMMAR), TextMate, RegEx
-Machine Learning and Artifiacial Intellisence 
+- Language - Javascript, Typescript, Java/J2EE, Python, NodeJS, 
+- Databases - SQL , Oracle, MongoDB
+- Tools/Systems - OpenShift, Docker, Podman, Postman, SPS (IBM Cloud), z/OS, GitHub, Jira, GITLAB, Swagger, GIT
+- Test automation - Cypress, Mocha, chai, Jest, Jasmine, KARMA, vscode-extension-tester (E2E testing Framework)
+- UI Techs - HTML, CSS, ES6, React, Redux, Saga, Angular,Express, Ag-grid, husky, ESlint, ESbuild
+- code Quality - SonarQube, 
+- Vulnerability - whitesource
+- Web Accessibility 
+- VSCode Extension, language server protocol
+- Grammar Parser - ANTLR (GRAMMAR), TextMate, RegEx
+- Machine Learning and Artifiacial Intellisence 
 
 
+- # Reach out to me - 
 
-- 📫 How to reach me jiten.cs2010@gmail.com/+91-9599107440
+📫 jiten.cs2010@gmail.com/+91-9599107440
