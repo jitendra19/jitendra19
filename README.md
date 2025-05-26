@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jitendra Singhal (Jiten)
+![image](https://github.com/user-attachments/assets/86e650b7-7132-4f29-8908-ae6365d9867d)- 👋 Hi, I’m Jitendra Singhal (Jiten)
 - 👀 I am Tech Architect.
 - :heart: Loves to code everyday, to solve problems, to help others and mentor people.
 - 
@@ -25,6 +25,19 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+
+Language - Javascript, Typescript, Java/J2EE, Python, NodeJS, 
+Databases - SQL , Oracle, MongoDB
+Tools/Systems - OpenShift, Docker, Podman, Postman, SPS (IBM Cloud), z/OS, GitHub, Jira, GITLAB, Swagger, GIT
+Test automation - Cypress, Mocha, chai, Jest, Jasmine, KARMA, vscode-extension-tester (E2E testing Framework)
+UI Techs - HTML, CSS, ES6, React, Redux, Saga, Angular,Express, Ag-grid, husky, ESlint, ESbuild
+code Quality - SonarQube, 
+Vulnerability - whitesource
+Web Accessibility 
+VSCode Extension, language server protocol
+Grammar Parser - ANTLR (GRAMMAR), TextMate, RegEx
+Machine Learning and Artifiacial Intellisence 
 
 
 
