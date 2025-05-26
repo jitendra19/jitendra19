@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86e650b7-7132-4f29-8908-ae6365d9867d)- 👋 Hi, I’m Jitendra Singhal (Jiten)
+- 👋 Hi, I’m Jitendra Singhal (Jiten)
 - 👀 I am Tech Architect.
 - :heart: Loves to code everyday, to solve problems, to help others and mentor people.
 - 
